@@ -14,6 +14,8 @@
 
 ---
 
+Data Science material and exercises.
+
 <a id='welcome'></a>
 ## Course Overview
 Welcome to the part time Data Science course at General Assembly! We are building a global community of lifelong learners who are excited about using data to solve real world problems.
